@@ -1,6 +1,6 @@
 actors:
   punchdrunker:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/punchdrunker.jpg
     name: punchdrunker
     url: httpw://twitter.com/punchdrunker
 author: punchdrunker
