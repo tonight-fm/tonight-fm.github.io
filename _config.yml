@@ -5,7 +5,7 @@ actors:
     url: httpw://twitter.com/punchdrunker
 author: punchdrunker
 description: Tonight FM
-description_long: Example long description
+description_long: punchdrunkerが毎回ゲストを迎えておしゃべりする音楽番組です
 email: nanao.hhk@gmail.com
 exclude:
   - Gemfile
@@ -15,7 +15,7 @@ exclude:
   - vendor
 hashtag: tonight-fm
 itunes_podcast_url:
-keywords: jazz,proguramming
+keywords: music,proguramming
 language: ja
 markdown: kramdown
 permalink: /episode/:title
