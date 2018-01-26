@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/punchdrunker.jpg
     name: punchdrunker
     url: httpw://twitter.com/punchdrunker
+  oogatta:
+    image_url: /images/actors/oogatta.png
+    name: oogatta
+    url: httpw://twitter.com/oogatta
 author: punchdrunker
 description: Tonight FM
 description_long: punchdrunkerが毎回ゲストを迎えておしゃべりする音楽番組です
