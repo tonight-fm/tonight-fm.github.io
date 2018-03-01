@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/oogatta.png
     name: oogatta
     url: https://twitter.com/oogatta
+  keithyokoma:
+    image_url: /images/actors/keithyokoma.png
+    name: keithyokoma
+    url: https://twitter.com/keithyokoma
 author: punchdrunker
 description: ゲストをお呼びして、近況を報告しながら音楽を聞く音楽番組です
 description_long: punchdrunkerが毎回ゲストを迎えておしゃべりする音楽番組です。主に最近どうよ、みたいな話をします。
